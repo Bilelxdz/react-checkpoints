@@ -1,0 +1,16 @@
+.container {
+  background-color: grey;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.buttons {
+  padding-right: 22%;
+}
+.buttons button {
+  padding: 10px;
+}
+.container p {
+  padding-left: 10%;
+  font-size: 30px;
+}

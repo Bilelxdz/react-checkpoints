@@ -1,0 +1,17 @@
+form {
+  display: flex;
+  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-left: 20%;
+}
+header {
+  background-color: #ff5200;
+}
+input {
+  width: 50%;
+  height: 26px;
+}
+form button {
+  width: 20%;
+  height: 30px;
+}
